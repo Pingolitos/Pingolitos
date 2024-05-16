@@ -1,5 +1,10 @@
-### Hi there 👋
+_Olá!_  👋
 
+Meu nome é **_Rafaella_**
+
+-Estudo no Alura
+-Estou me desenvolvendo no Javascript
+-Uso esse espaço para organização e compartilhamento dos meus projetos
 <!--
 **Pingolitos/Pingolitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
