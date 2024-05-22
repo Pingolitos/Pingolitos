@@ -12,7 +12,10 @@ Meu nome é **_Rafaella_**
 
 00001132500643sp@al.educacao.sp.gov.br
 
-![](https://makeagif.com/gif/pingu-subtitles-parody-pingu-eats-dinner-BumHxv)
+
+![](https://wallpapers.com/images/hd/pingu-and-pingo-listening-music-j37s331v5cb1b9cc.jpg)
+
+
 
 <!--
 **Pingolitos/Pingolitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
