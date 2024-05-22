@@ -11,6 +11,9 @@ Meu nome é **_Rafaella_**
 ### Entre em contato comigo 📩
 
 00001132500643sp@al.educacao.sp.gov.br
+
+![](https://makeagif.com/gif/pingu-subtitles-parody-pingu-eats-dinner-BumHxv)
+
 <!--
 **Pingolitos/Pingolitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
