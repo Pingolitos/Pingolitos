@@ -1,10 +1,16 @@
-_Olá!_  👋
+### **Bem vindo ao meu perfil!!** 👋
 
 Meu nome é **_Rafaella_**
 
--Estudo no Alura
--Estou me desenvolvendo no Javascript
--Uso esse espaço para organização e compartilhamento dos meus projetos
+- Estou aprendendo no Alura
+
+- Estou me desenvolvendo no Javascript
+
+- Uso esse espaço para organização e compartilhamento dos meus projetos
+
+### Entre em contato comigo 📩
+
+00001132500643sp@al.educacao.sp.gov.br
 <!--
 **Pingolitos/Pingolitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
